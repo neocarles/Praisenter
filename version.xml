@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<praisebasepresenter>
+<praisenter>
    <version>1.6.0</version>
    <url>https://raw.githubusercontent.com/neocarles/Praisenter/master/Praisenter-1.6.0.0.msi</url>
    <announcement>https://praisenter.com/en/</announcement>
-</praisebasepresenter>
+</praisenter>
